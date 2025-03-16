@@ -11,7 +11,7 @@
 > Erhan Turan BİLİR ( [https://github.com/erhanbilir](https://github.com/erhanbilir) )
 > 
 
-> Ferhat YENİLMEZ ( [https://github.com/Thraefgr](https://github.com/Thraefgr) )
+> Ferhat YENİLMEZ ( [https://github.com/ObsessiveEngineer](https://github.com/ObsessiveEngineer) )
 > 
 
 ---
@@ -42,7 +42,7 @@ Bu projede, NIH Chest X-ray veri setindeki göğüs röntgeni görüntülerini k
 
 ### **Ön İşleme ve Veri Hazırlama:**
 
-- Eksik veya hatalı veriler analiz edilip temizlenecektir.
+- Hatalı veriler analiz edilip temizlenecektir.
 - Kayıp veri analizi yapılarak, eksik verilerin dağılımı ve etkileri incelenecek ve uygun yöntemlerle giderilecektir.
 - Görüntüler belirli bir formata getirilerek boyutlandırma ve normalizasyon işlemleri uygulanacaktır.
 - Veri artırma (Data Augmentation) teknikleri kullanılarak modelin daha sağlam bir şekilde öğrenmesi sağlanacaktır.
@@ -52,7 +52,7 @@ Bu projede, NIH Chest X-ray veri setindeki göğüs röntgeni görüntülerini k
 ### **Eğitim ve Test Süreci:**
 
 - Veri seti; eğitim, doğrulama ve test olmak üzere üç gruba ayrılacaktır.
-- Modelin başarısını ölçmek için **k-katlı çapraz doğrulama yöntemi kullanılacaktır. Bu yöntem, modelin farklı veri parçaları üzerinde test edilmesini sağlayarak daha güvenilir sonuçlar elde etmeye yardımcı olur.**
+- Modelin başarısını ölçmek için k-katlı çapraz doğrulama yöntemi kullanılacaktır. Bu yöntem, modelin farklı veri parçaları üzerinde test edilmesini sağlayarak daha güvenilir sonuçlar elde etmeye yardımcı olur.
 - Modelin farklı ayarlarla eğitilerek en iyi sonucu veren yapı belirlenmeye çalışılacaktır.
 
 ---
