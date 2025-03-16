@@ -18,7 +18,7 @@
 
 ### **Problem Tanımı:**
 
-Bu projede, NIH Chest X-ray veri setindeki göğüs röntgeni görüntülerini kullanarak hastalığın teşhis edilmesi amaçlanmaktadır. Yapay zeka ve derin öğrenme teknikleri kullanılarak, röntgen görüntülerinde hastalık olup olmadığını belirleyen bir model geliştirilecektir. Bu tür sistemler, doktorlara destek sağlayarak tanı sürecini hızlandırabilir ve hata oranlarını azaltabilir.
+Bu projede, NIH Chest X-ray veri setindeki göğüs röntgeni görüntülerini kullanarak hastalığın teşhis edilmesi amaçlanmaktadır. Yapay sinir ağları kullanılarak, röntgen görüntülerinde hastalık olup olmadığını belirleyen bir model geliştirilecektir. Bu tür sistemler, doktorlara destek sağlayarak tanı sürecini hızlandırabilir ve hata oranlarını azaltabilir.
 
 ---
 
