@@ -2,10 +2,16 @@
 
 ### **Proje Grup Bilgileri:**
 
-> Atakan COŞAR ( 
-Barış KESKİN ( [https://github.com/keserbaros1](https://github.com/keserbaros1) )
-Erhan Turan BİLİR ( [https://github.com/erhanbilir](https://github.com/erhanbilir) )
-Ferhat YENİLMEZ ( [https://github.com/Thraefgr](https://github.com/Thraefgr) )
+> Atakan COŞAR ( )
+> 
+
+> Barış KESKİN ( [https://github.com/keserbaros1](https://github.com/keserbaros1) )
+> 
+
+> Erhan Turan BİLİR ( [https://github.com/erhanbilir](https://github.com/erhanbilir) )
+> 
+
+> Ferhat YENİLMEZ ( [https://github.com/Thraefgr](https://github.com/Thraefgr) )
 > 
 
 ---
@@ -77,4 +83,4 @@ Bu projede, NIH Chest X-ray veri setindeki göğüs röntgeni görüntülerini k
 
 ### **Proje Deposu:**
 
-- **Github Linki:** https://github.com/keserbaros1/ysa-medikal-tani
+- **Github Linki:** [https://github.com/keserbaros1/ysa-medikal-tani](https://github.com/keserbaros1/ysa-medikal-tani)
