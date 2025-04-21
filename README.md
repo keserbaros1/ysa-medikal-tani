@@ -1,6 +1,3 @@
-![/Users/cagdasdag/Downloads/trakya-universitesi-logo.png](media/image1.png){width="1.6771653543307086in"
-height="1.6771653543307086in"}
-
 **TRAKYA ÜNİVERSİTESİ**
 
 **MÜHENDİSLİK FAKÜLTESİ**
@@ -78,7 +75,7 @@ NIH Chest X-ray Dataset
 
 # KULLANILACAK YÖNTEMLER VE MODELLER
 
-> Yapay Sinir Ağları:
+Yapay Sinir Ağları:
 
 - Convolutional Neural Networks (CNN): Görüntüleri analiz edip
   sınıflandırmak için Convolutional Neural Networks (CNN)
