@@ -1,5 +1,6 @@
 name: ysa_env
 channels:
+  - anaconda
   - defaults
 dependencies:
   - blas=1.0=mkl
@@ -7,12 +8,14 @@ dependencies:
   - brotli-python=1.0.9=py313h5da7b33_9
   - bzip2=1.0.8=h2bbff1b_6
   - ca-certificates=2025.2.25=haa95532_0
-  - certifi=2025.1.31=py313haa95532_0
+  - certifi=2025.4.26=py313haa95532_0
   - charset-normalizer=3.3.2=pyhd3eb1b0_0
   - colorama=0.4.6=py313haa95532_0
   - expat=2.7.1=h8ddb27b_0
+  - icc_rt=2022.1.0=h6049295_2
   - idna=3.7=py313haa95532_0
   - intel-openmp=2023.1.0=h59b6b97_46320
+  - joblib=1.4.2=py313haa95532_0
   - kagglehub=0.2.7=py313haa95532_0
   - libffi=3.4.4=hd77b12b_1
   - libmpdec=4.0.0=h827c3e9_0
@@ -34,10 +37,13 @@ dependencies:
   - python_abi=3.13=0_cp313
   - pytz=2024.1=py313haa95532_0
   - requests=2.32.3=py313haa95532_1
+  - scikit-learn=1.6.1=py313h585ebfc_0
+  - scipy=1.15.2=py313hd4070db_1
   - setuptools=72.1.0=py313haa95532_0
   - six=1.17.0=py313haa95532_0
   - sqlite=3.45.3=h2bbff1b_0
   - tbb=2021.8.0=h59b6b97_0
+  - threadpoolctl=3.5.0=py313h4442805_0
   - tk=8.6.14=h0416ee5_0
   - tqdm=4.67.1=py313h4442805_0
   - tzdata=2025a=h04d1e81_0
@@ -49,16 +55,28 @@ dependencies:
   - xz=5.6.4=h4754444_1
   - zlib=1.2.13=h8cc25b3_1
   - pip:
+      - attrs==25.3.0
+      - cmake==4.0.0
+      - expecttest==0.3.0
       - filelock==3.13.1
       - fsspec==2024.6.1
+      - hypothesis==6.131.9
+      - iniconfig==2.1.0
       - jinja2==3.1.4
       - markupsafe==2.1.5
       - mpmath==1.3.0
       - networkx==3.3
+      - ninja==1.11.1.4
       - pillow==11.0.0
+      - pluggy==1.5.0
+      - pytest==8.3.5
+      - pyyaml==6.0.2
+      - ruamel-yaml==0.18.6
+      - sortedcontainers==2.4.0
       - sympy==1.13.3
       - torch==2.7.0+cu126
       - torchaudio==2.7.0+cu126
       - torchvision==0.22.0+cu126
+      - types-dataclasses==0.6.6
       - typing-extensions==4.12.2
 prefix: C:\Users\keser\miniconda3\envs\ysa_env
