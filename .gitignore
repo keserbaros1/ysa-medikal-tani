@@ -9,3 +9,5 @@ dataset/
 single_dataset/
 data_model/
 .vscode/
+
+trained_models/
