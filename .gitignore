@@ -11,3 +11,4 @@ data_model/
 .vscode/
 
 trained_models/
+generated_images/
