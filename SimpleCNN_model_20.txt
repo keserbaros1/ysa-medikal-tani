@@ -1,0 +1,256 @@
+Train Loss: 2.1709 Acc: 0.2033
+Validation Loss: 2.2179 Acc: 0.1620
+1 dönem boyunca iyileşme yok.
+
+Sınıf Bazında Doğruluk:
+Sınıf Atelectasis: 8.00% (4/50)
+Sınıf Cardiomegaly: 46.00% (23/50)
+Sınıf Consolidation: 32.00% (16/50)
+Sınıf Effusion: 16.00% (8/50)
+Sınıf Infiltration: 12.00% (6/50)
+Sınıf Mass: 8.00% (4/50)
+Sınıf No Finding: 8.00% (4/50)
+Sınıf Nodule: 14.00% (7/50)
+Sınıf Pleural_Thickening: 6.00% (3/50)
+Sınıf Pneumothorax: 12.00% (6/50)
+
+Sınıf Bazında Rapor:
+              precision    recall  f1-score   support
+
+           0       0.08      0.08      0.08        50
+           1       0.26      0.46      0.33        50
+           2       0.20      0.32      0.24        50
+           3       0.22      0.16      0.19        50
+           4       0.12      0.12      0.12        50
+           5       0.10      0.08      0.09        50
+           6       0.08      0.08      0.08        50
+           7       0.12      0.14      0.13        50
+           8       0.16      0.06      0.09        50
+           9       0.19      0.12      0.15        50
+
+    accuracy                           0.16       500
+   macro avg       0.15      0.16      0.15       500
+weighted avg       0.15      0.16      0.15       500
+
+
+Epoch 15/20
+--------------------
+Train Loss: 2.1738 Acc: 0.2062
+Validation Loss: 2.2038 Acc: 0.1980
+2 dönem boyunca iyileşme yok.
+
+Sınıf Bazında Doğruluk:
+Sınıf Atelectasis: 18.00% (9/50)
+Sınıf Cardiomegaly: 42.00% (21/50)
+Sınıf Consolidation: 40.00% (20/50)
+Sınıf Effusion: 12.00% (6/50)
+Sınıf Infiltration: 6.00% (3/50)
+Sınıf Mass: 2.00% (1/50)
+Sınıf No Finding: 12.00% (6/50)
+Sınıf Nodule: 34.00% (17/50)
+Sınıf Pleural_Thickening: 14.00% (7/50)
+Sınıf Pneumothorax: 18.00% (9/50)
+
+Sınıf Bazında Rapor:
+              precision    recall  f1-score   support
+
+           0       0.09      0.18      0.12        50
+           1       0.34      0.42      0.38        50
+           2       0.21      0.40      0.28        50
+           3       0.26      0.12      0.16        50
+           4       0.11      0.06      0.08        50
+           5       0.20      0.02      0.04        50
+           6       0.15      0.12      0.13        50
+           7       0.21      0.34      0.26        50
+           8       0.18      0.14      0.16        50
+           9       0.26      0.18      0.21        50
+
+    accuracy                           0.20       500
+   macro avg       0.20      0.20      0.18       500
+weighted avg       0.20      0.20      0.18       500
+
+
+Epoch 16/20
+--------------------
+Train Loss: 2.1622 Acc: 0.2121
+Validation Loss: 2.2337 Acc: 0.1560
+3 dönem boyunca iyileşme yok.
+
+Sınıf Bazında Doğruluk:
+Sınıf Atelectasis: 18.00% (9/50)
+Sınıf Cardiomegaly: 14.00% (7/50)
+Sınıf Consolidation: 40.00% (20/50)
+Sınıf Effusion: 14.00% (7/50)
+Sınıf Infiltration: 6.00% (3/50)
+Sınıf Mass: 0.00% (0/50)
+Sınıf No Finding: 6.00% (3/50)
+Sınıf Nodule: 14.00% (7/50)
+Sınıf Pleural_Thickening: 24.00% (12/50)
+Sınıf Pneumothorax: 20.00% (10/50)
+
+Sınıf Bazında Rapor:
+              precision    recall  f1-score   support
+
+           0       0.12      0.18      0.14        50
+           1       0.24      0.14      0.18        50
+           2       0.19      0.40      0.25        50
+           3       0.16      0.14      0.15        50
+           4       0.16      0.06      0.09        50
+           5       0.00      0.00      0.00        50
+           6       0.17      0.06      0.09        50
+           7       0.15      0.14      0.14        50
+           8       0.14      0.24      0.18        50
+           9       0.15      0.20      0.17        50
+
+    accuracy                           0.16       500
+   macro avg       0.15      0.16      0.14       500
+weighted avg       0.15      0.16      0.14       500
+
+
+Epoch 17/20
+--------------------
+Train Loss: 2.1610 Acc: 0.2122
+Validation Loss: 2.2084 Acc: 0.1980
+4 dönem boyunca iyileşme yok.
+
+Sınıf Bazında Doğruluk:
+Sınıf Atelectasis: 12.00% (6/50)
+Sınıf Cardiomegaly: 34.00% (17/50)
+Sınıf Consolidation: 36.00% (18/50)
+Sınıf Effusion: 20.00% (10/50)
+Sınıf Infiltration: 2.00% (1/50)
+Sınıf Mass: 2.00% (1/50)
+Sınıf No Finding: 2.00% (1/50)
+Sınıf Nodule: 58.00% (29/50)
+Sınıf Pleural_Thickening: 10.00% (5/50)
+Sınıf Pneumothorax: 22.00% (11/50)
+
+Sınıf Bazında Rapor:
+              precision    recall  f1-score   support
+
+           0       0.10      0.12      0.11        50
+           1       0.28      0.34      0.31        50
+           2       0.24      0.36      0.29        50
+           3       0.15      0.20      0.17        50
+           4       0.06      0.02      0.03        50
+           5       0.20      0.02      0.04        50
+           6       0.14      0.02      0.04        50
+           7       0.19      0.58      0.29        50
+           8       0.29      0.10      0.15        50
+           9       0.26      0.22      0.24        50
+
+    accuracy                           0.20       500
+   macro avg       0.19      0.20      0.17       500
+weighted avg       0.19      0.20      0.17       500
+
+
+Epoch 18/20
+--------------------
+Train Loss: 2.1534 Acc: 0.2140
+Validation Loss: 2.2025 Acc: 0.1900
+5 dönem boyunca iyileşme yok.
+
+Sınıf Bazında Doğruluk:
+Sınıf Atelectasis: 12.00% (6/50)
+Sınıf Cardiomegaly: 42.00% (21/50)
+Sınıf Consolidation: 36.00% (18/50)
+Sınıf Effusion: 16.00% (8/50)
+Sınıf Infiltration: 6.00% (3/50)
+Sınıf Mass: 6.00% (3/50)
+Sınıf No Finding: 2.00% (1/50)
+Sınıf Nodule: 42.00% (21/50)
+Sınıf Pleural_Thickening: 6.00% (3/50)
+Sınıf Pneumothorax: 22.00% (11/50)
+
+Sınıf Bazında Rapor:
+              precision    recall  f1-score   support
+
+           0       0.09      0.12      0.11        50
+           1       0.24      0.42      0.30        50
+           2       0.21      0.36      0.26        50
+           3       0.20      0.16      0.18        50
+           4       0.16      0.06      0.09        50
+           5       0.10      0.06      0.08        50
+           6       0.17      0.02      0.04        50
+           7       0.19      0.42      0.26        50
+           8       0.25      0.06      0.10        50
+           9       0.26      0.22      0.24        50
+
+    accuracy                           0.19       500
+   macro avg       0.19      0.19      0.16       500
+weighted avg       0.19      0.19      0.16       500
+
+
+Epoch 19/20
+--------------------
+Train Loss: 2.1495 Acc: 0.2147
+Validation Loss: 2.1953 Acc: 0.2080
+0 dönem boyunca iyileşme yok.
+
+Sınıf Bazında Doğruluk:
+Sınıf Atelectasis: 14.00% (7/50)
+Sınıf Cardiomegaly: 66.00% (33/50)
+Sınıf Consolidation: 24.00% (12/50)
+Sınıf Effusion: 24.00% (12/50)
+Sınıf Infiltration: 8.00% (4/50)
+Sınıf Mass: 12.00% (6/50)
+Sınıf No Finding: 20.00% (10/50)
+Sınıf Nodule: 12.00% (6/50)
+Sınıf Pleural_Thickening: 4.00% (2/50)
+Sınıf Pneumothorax: 24.00% (12/50)
+
+Sınıf Bazında Rapor:
+              precision    recall  f1-score   support
+
+           0       0.12      0.14      0.13        50
+           1       0.28      0.66      0.40        50
+           2       0.22      0.24      0.23        50
+           3       0.22      0.24      0.23        50
+           4       0.15      0.08      0.11        50
+           5       0.18      0.12      0.14        50
+           6       0.15      0.20      0.17        50
+           7       0.16      0.12      0.14        50
+           8       0.25      0.04      0.07        50
+           9       0.26      0.24      0.25        50
+
+    accuracy                           0.21       500
+   macro avg       0.20      0.21      0.19       500
+weighted avg       0.20      0.21      0.19       500
+
+
+Epoch 20/20
+--------------------
+Train Loss: 2.1460 Acc: 0.2121
+Validation Loss: 2.2090 Acc: 0.1680
+1 dönem boyunca iyileşme yok.
+
+Sınıf Bazında Doğruluk:
+Sınıf Atelectasis: 16.00% (8/50)
+Sınıf Cardiomegaly: 38.00% (19/50)
+Sınıf Consolidation: 26.00% (13/50)
+Sınıf Effusion: 18.00% (9/50)
+Sınıf Infiltration: 6.00% (3/50)
+Sınıf Mass: 0.00% (0/50)
+Sınıf No Finding: 2.00% (1/50)
+Sınıf Nodule: 34.00% (17/50)
+Sınıf Pleural_Thickening: 4.00% (2/50)
+Sınıf Pneumothorax: 24.00% (12/50)
+
+Sınıf Bazında Rapor:
+              precision    recall  f1-score   support
+
+           0       0.10      0.16      0.12        50
+           1       0.26      0.38      0.31        50
+           2       0.21      0.26      0.23        50
+           3       0.16      0.18      0.17        50
+           4       0.10      0.06      0.07        50
+           5       0.00      0.00      0.00        50
+           6       0.12      0.02      0.03        50
+           7       0.19      0.34      0.25        50
+           8       0.10      0.04      0.06        50
+           9       0.17      0.24      0.20        50
+
+    accuracy                           0.17       500
+   macro avg       0.14      0.17      0.14       500
+weighted avg       0.14      0.17      0.14       500
+
