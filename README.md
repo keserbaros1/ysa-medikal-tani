@@ -23,15 +23,15 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımlar ve kütüphaneler ger
     cd ysa-medikal-tani
     ```
 
-3. Conda sanal ortamı içeriye aktarma ve paketleri yükleme:
+3. Conda sanal ortamı içeriye aktarın ve paketleri yükleyin:
 
     ```bash
     conda env create -f ysa_env.yml
     ```
 
-6. Veri setini yükleme
+6. Veri setini yükleyin
 
-    tarayıcınızı açın ve https://www.kaggle.com/datasets/nih-chest-xrays/data sitesine gidin. Download butonuna tıklayın. Download dataset as zip butonuyla indirmeye başlatın. İndirdiğiniz verisetini ysa-medikal-tani\archive olacak şekilde ysa_medikal-tani dizinine çıkartın.
+    Tarayıcınızı açın ve https://www.kaggle.com/datasets/nih-chest-xrays/data sitesine gidin. Download butonuna tıklayın. Download dataset as zip butonuyla indirmeye başlatın. İndirdiğiniz verisetini ysa-medikal-tani\archive olacak şekilde ysa_medikal-tani dizinine çıkartın.
 
 ## Kullanımı
 
